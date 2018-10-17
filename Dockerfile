@@ -1,5 +1,5 @@
 # Made by seokjoon.yun (seokjoon.yun@gmail.com)
-# Distributed under the terms of the Modified BSD License.
+# Distributed under the terms of the Modified MIT License.
 
 
 # jupyter/scipy-notebook by Jupyter Development Team.
