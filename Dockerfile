@@ -25,7 +25,6 @@ RUN pip install sklearn
 #########################################
 
 #COPY [your notebok directory] notebook
-#COPY drtp notebook
 #RUN chmod -R 777 notebook
 
 ########################################
